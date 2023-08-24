@@ -8,14 +8,14 @@ Consider giving your support by covering some of their infrastructure costs via 
 # Proxies list
 ## m3u8 proxies (Mobile users, TTV LOL PRO V1 and TTV LOL compatible)
 
-- `https://api.ttv.lol` - [maintainer](https://ttv.lol/)
+~~- `https://api.ttv.lol` - [maintainer](https://ttv.lol/)
   - Proxied to multiple countries.
-  - `X-Donate-To = "https://ttv.lol/donate` header required for the API to give successful requests.
+  - `X-Donate-To = "https://ttv.lol/donate` header required for the API to give successful requests.~~ (Server has been down for a while now, probably not coming back)
 - `https://lb-eu.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.perfprod.com)
   - Proxied to the Netherlands.
   - Recommended for Desktop & Mobile users.
 - `https://lb-eu2.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.perfprod.com)
-  - Proxied to Ukraine, Azerbajian and the Netherlands.
+  - Proxied to Ukraine, Azerbajian and the Netherlands (fallback).
   - Recommended for Desktop & Mobile users.
 - `https://lb-eu3.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.perfprod.com)
   - Proxied to Russia.
@@ -35,9 +35,9 @@ Consider giving your support by covering some of their infrastructure costs via 
 - `https://as.luminous.dev` - [maintainer](https://github.com/AlyoshaVasilieva) / [current status](https://stats.uptimerobot.com/N2pVRCZAjg)
   - Proxied to China.
   - Recommended for Desktop & Mobile users.
-- `https://purpletv.cdn-perfprod.com` - [maintainer](https://t.me/nopbreak)
+~~- `https://purpletv.cdn-perfprod.com` - [maintainer](https://t.me/nopbreak)
   - Proxied to Russia.
-  - Recommended & only compatible for Mobile users.
+  - Recommended & only compatible for Mobile users.~~ (Server has been down for a while, most likely coming back)
 
 # Host your own proxy
 
