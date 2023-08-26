@@ -12,14 +12,14 @@ Consider giving your support by covering some of their infrastructure costs via 
   - Proxied to the Netherlands.
   - Recommended for Desktop & Mobile users.
 - `https://lb-eu2.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.perfprod.com)
-  - Proxied to Ukraine, Azerbajian and the Netherlands (fallback).
+  - Proxied to Ukraine.
   - Recommended for Desktop & Mobile users.
 - `https://lb-eu3.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.perfprod.com)
   - Proxied to Russia.
   - Recommended for Mobile users.
 - `https://lb-na.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.perfprod.com)
-  - Proxied to the US and Canada.
-  - Not recommended at all. May or may not work.
+  - Proxied to the US
+  - Recommended for Desktop & Mobile users.
 - `https://lb-as.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.perfprod.com)
   - Proxied to Singapore.
   - Recommended for Desktop & Mobile users.
