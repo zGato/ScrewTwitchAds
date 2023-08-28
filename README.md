@@ -40,8 +40,7 @@ Proxies are usually the best and most reliable way to circumvent Twitch Ads. Eit
   - Now quality is dropped to `360p` when ads are being played.
   - Should work for everyone.
 
-_from [here](https://github.com/pixeltris/TwitchAdSolutions#applying-a-script-ublock-origin):_
-### Applying a script (uBlock Origin)
+### [Applying a script (uBlock Origin)](https://github.com/pixeltris/TwitchAdSolutions#applying-a-script-ublock-origin)
 
 - Navigate to the uBlock Origin Dashboard (the extension options)
 - Under the `My filters` tab add `twitch.tv##+js(twitch-videoad)`.
