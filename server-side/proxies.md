@@ -8,19 +8,19 @@ Consider giving your support by covering some of their infrastructure costs via 
 # Proxies list
 ## m3u8 proxies (Mobile users, TTV LOL PRO V1 and TTV LOL compatible)
 
-- `https://lb-eu.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.perfprod.com)
+- `https://lb-eu.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
   - Proxied to the Netherlands.
   - Recommended for Desktop & Mobile users.
-- `https://lb-eu2.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.perfprod.com)
+- `https://lb-eu2.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
   - Proxied to Ukraine.
   - Recommended for Desktop & Mobile users.
-- `https://lb-eu3.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.perfprod.com)
+- `https://lb-eu3.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
   - Proxied to Russia.
   - Recommended for Mobile users.
-- `https://lb-na.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.perfprod.com)
+- `https://lb-na.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
   - Proxied to the US
   - Recommended for Desktop & Mobile users.
-- `https://lb-as.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.perfprod.com)
+- `https://lb-as.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
   - Proxied to Singapore.
   - Recommended for Desktop & Mobile users.
 - `https://eu.luminous.dev` - [maintainer](https://github.com/AlyoshaVasilieva) / [current status](https://stats.uptimerobot.com/N2pVRCZAjg)
