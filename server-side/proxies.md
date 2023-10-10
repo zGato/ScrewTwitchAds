@@ -24,8 +24,8 @@ Consider giving your support by covering some of their infrastructure costs via 
   - Proxied to Singapore.
   - Recommended for Desktop & Mobile users.
 - `https://eu.luminous.dev` - [maintainer](https://github.com/AlyoshaVasilieva) / [current status](https://stats.uptimerobot.com/N2pVRCZAjg)
-  - Proxied to Lithuania.
-  - Recommended for Mobile users.
+  - Proxied to Kazakhstan.
+  - Recommended for Desktop & Mobile users.
 - `https://eu2.luminous.dev` - [maintainer](https://github.com/AlyoshaVasilieva) / [current status](https://stats.uptimerobot.com/N2pVRCZAjg)
   - Proxied to Lithuania.
   - Recommended for Mobile users.
