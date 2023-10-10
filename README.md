@@ -62,6 +62,7 @@ Proxies are usually the best and most reliable way to circumvent Twitch Ads. Mob
 - `PurpleTV` - [apk](https://purpletv.aeong.one/)
   - Modified Twitch app with added functionalities.
   - You can select your own custom proxy. You can [host your own](server-side/proxies.md#host-your-own-proxy) or choose one from the [following list](server-side/proxies.md#proxies-list).
+  - Use the [following syntax](server-side/mobilesyntax.md) when using your own proxy or one from the list.
   - "Open source code". You need to request access to it, and only if you're a developer.
   - Works for everyone.
 
