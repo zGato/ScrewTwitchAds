@@ -20,6 +20,9 @@ Consider giving your support by covering some of their infrastructure costs via 
 - `https://lb-eu4.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
   - Proxied to Romania.
   - Recommended for Desktop & Mobile users.
+- `https://lb-eu5.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
+  - Proxied to the Netherlands.
+  - Recommended for Desktop & Mobile users.
 - `https://lb-na.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
   - Proxied to the US
   - Recommended for Desktop & Mobile users.
