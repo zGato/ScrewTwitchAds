@@ -12,7 +12,7 @@ Consider giving your support by covering some of their infrastructure costs via 
   - Proxied to the Netherlands.
   - Recommended for Desktop & Mobile users.
 - `https://lb-eu2.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
-  - Proxied to Ukraine.
+  - Proxied to the Netherlands.
   - Recommended for Desktop & Mobile users.
 - `https://lb-eu3.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
   - Proxied to Russia.
@@ -28,6 +28,9 @@ Consider giving your support by covering some of their infrastructure costs via 
   - Recommended for Desktop & Mobile users.
 - `https://lb-as.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
   - Proxied to Singapore.
+  - Recommended for Desktop & Mobile users.
+- `https://lb-sa.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
+  - Proxied to Chile.
   - Recommended for Desktop & Mobile users.
 - `https://eu.luminous.dev` - [maintainer](https://github.com/AlyoshaVasilieva) / [current status](https://stats.uptimerobot.com/N2pVRCZAjg)
   - Proxied to Kazakhstan.
