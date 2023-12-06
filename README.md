@@ -38,7 +38,13 @@ Proxies are usually the best and most reliable way to circumvent Twitch Ads. Eit
 - `vaft` - [ublock](https://github.com/pixeltris/TwitchAdSolutions/raw/master/vaft/vaft-ublock-origin.js) / [userscript](https://github.com/pixeltris/TwitchAdSolutions/raw/master/vaft/vaft.user.js) / [ublock (permalink)](https://github.com/pixeltris/TwitchAdSolutions/raw/a285eeda5046a304c5eb38b958c875afca066daa/vaft/vaft-ublock-origin.js)
   - Modified `VAFT` original script which dropped resolution to `480p` when ads were played. Twitch patched it.
   - Now quality is dropped to `360p` when ads are being played.
-  - Should work for everyone, but seems to be partially patched recently.
+  - Should work for everyone. Some users report it not working for them.
+- `video-swap-new` - [ublock](https://github.com/pixeltris/TwitchAdSolutions/raw/master/video-swap-new/video-swap-new-ublock-origin.js) / [userscript](https://github.com/pixeltris/TwitchAdSolutions/raw/master/video-swap-new/video-swap-new.user.js) / [ublock (permalink)](https://github.com/pixeltris/TwitchAdSolutions/raw/a285eeda5046a304c5eb38b958c875afca066daa/video-swap-new/video-swap-new-ublock-origin.js)
+  - Uses the embed player during ads.
+  - Quality is dropped to `360p` when ads are being played.
+  - Should work for everyone. Some users report it not working for them.
+
+**For the sake of security it's recommended to use a permalink when using uBlock Origin (as permalinks do not auto update).**
 
 ### [Applying a script (uBlock Origin)](https://github.com/pixeltris/TwitchAdSolutions#applying-a-script-ublock-origin)
 
