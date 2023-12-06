@@ -10,36 +10,47 @@ Consider giving your support by covering some of their infrastructure costs via 
 
 - `https://lb-eu.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
   - Proxied to the Netherlands.
+  - Twitch CDN assignment: `EU`
   - Recommended for Desktop & Mobile users.
 - `https://lb-eu2.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
   - Proxied to the Netherlands.
+  - Twitch CDN assignment: `EU`
   - Recommended for Desktop & Mobile users.
 - `https://lb-eu3.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
   - Proxied to Russia.
+  - Twitch CDN assignment: `EU`
   - Recommended for Mobile users.
 - `https://lb-eu4.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
   - Proxied to Romania.
+  - Twitch CDN assignment: `EU`
   - Recommended for Desktop & Mobile users.
 - `https://lb-eu5.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
   - Proxied to the Netherlands.
+  - Twitch CDN assignment: `EU`
   - Recommended for Desktop & Mobile users.
 - `https://lb-na.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
   - Proxied to the US
+  - Twitch CDN assignment: `NA`
   - Recommended for Desktop & Mobile users.
 - `https://lb-as.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
   - Proxied to Singapore.
+  - Twitch CDN assignment: `AS`
   - Recommended for Desktop & Mobile users.
 - `https://lb-sa.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
   - Proxied to Chile.
+  - Twitch CDN assignment: `SA`
   - Recommended for Desktop & Mobile users.
 - `https://eu.luminous.dev` - [maintainer](https://github.com/AlyoshaVasilieva) / [current status](https://stats.uptimerobot.com/N2pVRCZAjg)
-  - Proxied to Kazakhstan.
-  - Recommended for Desktop & Mobile users.
+  - Proxied to Liechtenstein.
+  - Twitch CDN assignment: `EU`
+  - Recommended for Mobile users.
 - `https://eu2.luminous.dev` - [maintainer](https://github.com/AlyoshaVasilieva) / [current status](https://stats.uptimerobot.com/N2pVRCZAjg)
-  - Proxied to Lithuania.
+  - Proxied to North Macedonia.
+  - Twitch CDN assignment: `EU`
   - Recommended for Mobile users.
 - `https://as.luminous.dev` - [maintainer](https://github.com/AlyoshaVasilieva) / [current status](https://stats.uptimerobot.com/N2pVRCZAjg)
   - Proxied to China.
+  - Twitch CDN assignment: `EU/NA`
   - Recommended for Desktop & Mobile users.
 
 # Host your own proxy
