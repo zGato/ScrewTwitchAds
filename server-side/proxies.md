@@ -32,6 +32,10 @@ Consider giving your support by covering some of their infrastructure costs via 
   - Proxied to the US
   - Twitch CDN assignment: `NA`
   - Recommended for Desktop & Mobile users.
+- `https://lb-na2.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
+  - Proxied to the US
+  - Twitch CDN assignment: `NA`
+  - Experimental.
 - `https://lb-as.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
   - Proxied to Singapore.
   - Twitch CDN assignment: `AS`
