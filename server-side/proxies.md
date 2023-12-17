@@ -9,11 +9,11 @@ Consider giving your support by covering some of their infrastructure costs via 
 ## m3u8 proxies (Mobile users, TTV LOL PRO V1 and TTV LOL compatible)
 
 - `https://lb-eu.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
-  - Proxied to the Netherlands.
+  - Proxied to various countries.
   - Twitch CDN assignment: `EU`
   - Recommended for Desktop & Mobile users.
 - `https://lb-eu2.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
-  - Proxied to the Netherlands.
+  - Proxied to various countries.
   - Twitch CDN assignment: `EU`
   - Recommended for Desktop & Mobile users.
 - `https://lb-eu3.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
@@ -21,23 +21,23 @@ Consider giving your support by covering some of their infrastructure costs via 
   - Twitch CDN assignment: `EU`
   - Recommended for Mobile users.
 - `https://lb-eu4.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
-  - Proxied to Romania.
+  - Proxied to various countries.
   - Twitch CDN assignment: `EU`
   - Recommended for Desktop & Mobile users.
 - `https://lb-eu5.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
-  - Proxied to the Netherlands.
+  - Proxied to various countries.
   - Twitch CDN assignment: `EU`
   - Recommended for Desktop & Mobile users.
 - `https://lb-na.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
-  - Proxied to the US
+  - Proxied to the US.
   - Twitch CDN assignment: `NA`
   - Recommended for Desktop & Mobile users.
 - `https://lb-na2.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
-  - Proxied to the US
+  - Proxied to various countries.
   - Twitch CDN assignment: `NA`
-  - Experimental.
+  - Recommended for Desktop & Mobile users.
 - `https://lb-as.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
-  - Proxied to Singapore.
+  - Proxied to various countries.
   - Twitch CDN assignment: `AS`
   - Recommended for Desktop & Mobile users.
 - `https://lb-sa.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
