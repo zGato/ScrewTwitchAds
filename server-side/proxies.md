@@ -31,11 +31,7 @@ Consider giving your support by covering some of their infrastructure costs via 
 - `https://lb-na.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
   - Proxied to the US.
   - Twitch CDN assignment: `NA`
-  - Recommended for Desktop & Mobile users.
-- `https://lb-na2.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
-  - Proxied to various countries.
-  - Twitch CDN assignment: `NA`
-  - Recommended for Desktop & Mobile users.
+  - Recommended for Mobile users.
 - `https://lb-as.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
   - Proxied to various countries.
   - Twitch CDN assignment: `AS`
@@ -49,9 +45,9 @@ Consider giving your support by covering some of their infrastructure costs via 
   - Twitch CDN assignment: `EU`
   - Recommended for Mobile users.
 - `https://eu2.luminous.dev` - [maintainer](https://github.com/AlyoshaVasilieva) / [current status](https://stats.uptimerobot.com/N2pVRCZAjg)
-  - Proxied to North Macedonia.
+  - Proxied to Kazakhstan.
   - Twitch CDN assignment: `EU`
-  - Recommended for Mobile users.
+  - Recommended for Desktop & Mobile users.
 - `https://as.luminous.dev` - [maintainer](https://github.com/AlyoshaVasilieva) / [current status](https://stats.uptimerobot.com/N2pVRCZAjg)
   - Proxied to China.
   - Twitch CDN assignment: `EU/NA`
