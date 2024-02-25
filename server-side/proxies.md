@@ -34,19 +34,19 @@ Consider giving your support by covering some of their infrastructure costs via 
   - Unsupported region, it's likely it gives a playlist with ads.
 - `https://lb-as.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
   - Proxied to various countries.
-  - Twitch CDN assignment: `AS`
+  - Twitch CDN assignment: `AS (Singapore/Jakarta)`
   - Recommended for Desktop & Mobile users.
 - `https://lb-sa.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
   - Proxied to Chile.
-  - Twitch CDN assignment: `SA`
+  - Twitch CDN assignment: `SA (Chile)`
   - Experimental.
 - `https://eu.luminous.dev` - [maintainer](https://github.com/AlyoshaVasilieva) / [current status](https://stats.uptimerobot.com/N2pVRCZAjg)
-  - Proxied to Liechtenstein.
-  - Twitch CDN assignment: `EU`
+  - Proxied to Ukraine.
+  - Twitch CDN assignment: `EU (Warsaw)`
   - Recommended for Mobile users.
 - `https://eu2.luminous.dev` - [maintainer](https://github.com/AlyoshaVasilieva) / [current status](https://stats.uptimerobot.com/N2pVRCZAjg)
   - Proxied to North Macedonia.
-  - Twitch CDN assignment: `EU`
+  - Twitch CDN assignment: `EU (Stockholm/London/Frankfurt)`
   - Recommended for Mobile users.
 - `https://as.luminous.dev` - [maintainer](https://github.com/AlyoshaVasilieva) / [current status](https://stats.uptimerobot.com/N2pVRCZAjg)
   - Proxied to China.
@@ -55,6 +55,6 @@ Consider giving your support by covering some of their infrastructure costs via 
 
 # Host your own proxy
 
-[Check out this tutorial](https://github.com/younesaassila/ttv-lol-pro/discussions/151) to create your own **HTTP** proxy
+[Check out this tutorial](https://wiki.cdn-perfprod.com/guides/proxy/host-your-own-proxy) to create your own **HTTP** proxy
 
 [Check out this project](https://github.com/AlyoshaVasilieva/luminous-ttv) to host your own **m3u8** proxy
