@@ -35,9 +35,7 @@ Proxies are usually the best and most reliable way to circumvent Twitch Ads. Eit
   - Uses the embed player during ads.
   - Quality is dropped to `360p` when ads are being played.
 - `vaft` - [ublock](https://github.com/pixeltris/TwitchAdSolutions/raw/master/vaft/vaft-ublock-origin.js) / [userscript](https://github.com/pixeltris/TwitchAdSolutions/raw/master/vaft/vaft.user.js) / [ublock (permalink)](https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/9bd481a833341911ac39412dc4abcc41f911af8f/vaft/vaft-ublock-origin.js)
-  - Modified `VAFT` original script which dropped resolution to `480p` when ads were played. Twitch patched it.
-  - Now quality is dropped to `360p` when ads are being played.
-  - Should work for everyone. Some users report it not working for them.
+  - The same as `video-swap-new` but attempts to get a clean stream faster (may suffer from more freezing / playback issues).
 
 **For the sake of security it's recommended to use a permalink when using uBlock Origin (as permalinks do not auto update).**
 
