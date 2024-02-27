@@ -31,7 +31,7 @@ Consider giving your support by covering some of their infrastructure costs via 
 - `https://lb-na.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
   - Proxied to the US.
   - Twitch CDN assignment: `NA`
-  - Unsupported region, it's likely it gives a playlist with ads.
+  - Experimental.
 - `https://lb-as.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
   - Proxied to various countries.
   - Twitch CDN assignment: `AS (Singapore/Jakarta)`
