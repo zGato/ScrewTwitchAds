@@ -17,12 +17,14 @@ Proxies are usually the best and most reliable way to circumvent Twitch Ads. Eit
   - Removes `in-stream` ads. Use `uBlock Origin` for banner ads and others.
   - Works thanks to simple HTTP proxies. V1 proxies are not compatible!
   - Works for everyone. Released & updated recently.
+  - More information at: https://wiki.cdn-perfprod.com/
 - `TTV LOL PRO V1` - [code](https://github.com/younesaassila/ttv-lol-pro/tree/v1)
   - A fork of `TTV LOL` with improved UX and some newly added features.
   - Same ad blocking system as the original `TTV LOL` extension.
   - Proxy the initial streamer.m3u8 to grab an ad-free playlist from an ad-free country.
   - Removes `in-stream` ads. Use `uBlock Origin` for banner ads and others.
   - Doesn't work for everyone. If you use specific proxies results may vary. Choose one from the [following list](server-side/proxies.md#proxies-list) or [host your own](server-side/proxies.md#host-your-own-proxy).
+  - More information at: https://wiki.cdn-perfprod.com/v/v1/
 
 ## Client-sided blocking methods
 
