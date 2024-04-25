@@ -36,6 +36,7 @@ Proxies are usually the best and most reliable way to circumvent Twitch Ads. Eit
   - The same as `video-swap-new` but attempts to get a clean stream faster (may suffer from more freezing / playback issues).
 
 **For the sake of security it's recommended to use a permalink when using uBlock Origin (as permalinks do not auto update).**
+
 **`ublock` or `userscript` scripts do auto update which could lead to having your data compromised if the main repository gets compromised and malware is pushed to it.
 **
 
