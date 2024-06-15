@@ -5,7 +5,7 @@ I've created this repo to add extra AdBlocking methods and change it a bit.
 
 This repo consists in various ways to circumvent Twitch Ads, either client-sided solutions or server-sided.
 
-**DO NOT COMBINE TWITCH ADBLOCKERS!**
+# **DO NOT COMBINE TWITCH ADBLOCKERS!**
 
 # For desktop users
 ## [RECOMMENDED] Server-sided blocking methods
@@ -51,19 +51,25 @@ If you would like to remove the script, remove the twitch-videload filter and re
 # For mobile users
 ## [RECOMMENDED] Server-sided blocking methods
 
-Proxies are usually the best and most reliable way to circumvent Twitch Ads. Mobile platforms still use the streamer.m3u8 proxy method as it works for them (due to not having stitched ads). Either way, check the [downsides of proxies](server-side/proxies.md#proxies-downsides). 
+Proxies are usually the best and most reliable way to circumvent Twitch Ads. Either way, check the [downsides of proxies](server-side/proxies.md#proxies-downsides). 
 
 - `Xtra for Twitch` - [f-droid](https://f-droid.org/packages/com.github.andreyasadchy.xtra/) / [code](https://github.com/crackededed/Xtra)
   - Twitch player for Android.
   - You can select your own custom proxy. You can [host your own](server-side/proxies.md#host-your-own-proxy) or choose one from the [following list](server-side/proxies.md#proxies-list).
   - Use the [following syntax](server-side/mobilesyntax.md) when using your own proxy or one from the list.
+  - Alternatively you can also use standard HTTP proxies.
   - Partially broken in some regions for some users. 
 - `PurpleTV` - [apk](https://purpletv.aeong.win/)
-  - Modified Twitch app with added functionalities.
+  - Modified Twitch Android app with added functionalities.
   - You can select your own custom proxy. You can [host your own](server-side/proxies.md#host-your-own-proxy) or choose one from the [following list](server-side/proxies.md#proxies-list).
   - Use the [following syntax](server-side/mobilesyntax.md) when using your own proxy or one from the list.
-  - "Open source code". You need to request access to it, and only if you're a developer.
-  - Partially broken in some regions for some users. 
+  - Code is private and some features are locked behind a paywall.
+  - Partially broken in some regions for some users.
+- `TwitchAdBlock` (for iOS) - [code](https://github.com/level3tjg/TwitchAdBlock)
+  - Modified Twitch iOS app with added functionalities.
+  - **You must be able to sideload ipas to your iOS device.**
+  - By default, client-sided ad block mechanism is enabled. It may or may not work for you.
+  - You can select your own HTTP custom proxy. You're only proxying usher.ttvnw.net requests, and by default, `TTV LOL PRO` proxy is being used (if proxy option is manually enabled).
 
 # Developers
 
