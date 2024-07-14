@@ -45,9 +45,9 @@ Consider giving your support by covering some of their infrastructure costs via 
   - Twitch CDN assignment: `EU`
   - Recommended for Desktop & Mobile users.
 - `https://eu2.luminous.dev` - [maintainer](https://github.com/AlyoshaVasilieva) / [current status](https://stats.uptimerobot.com/N2pVRCZAjg)
-  - Proxied to Kazakhstan.
+  - Proxied to North Macedonia.
   - Twitch CDN assignment: `EU`
-  - Recommended for Desktop & Mobile users.
+  - Recommended for Mobile users.
 - `https://as.luminous.dev` - [maintainer](https://github.com/AlyoshaVasilieva) / [current status](https://stats.uptimerobot.com/N2pVRCZAjg)
   - Proxied to China.
   - Twitch CDN assignment: `EU/NA`
