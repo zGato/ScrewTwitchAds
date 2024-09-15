@@ -35,7 +35,8 @@ Proxies are usually the best and most reliable way to circumvent Twitch Ads. Eit
 - `vaft` - [ublock](https://github.com/pixeltris/TwitchAdSolutions/raw/master/vaft/vaft-ublock-origin.js) / [userscript](https://github.com/pixeltris/TwitchAdSolutions/raw/master/vaft/vaft.user.js) / [ublock (permalink)](https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/0863c6d74b98b5e8349382f508412a9005f50c57/vaft/vaft-ublock-origin.js)
   - The same as `video-swap-new` but attempts to get a clean stream faster (may suffer from more freezing / playback issues).
 - `Brave Browser` - [link](https://brave.com/)
-  - Uses the `vaft` scriptlet under `Brave experimental Adblock Rules` in `brave://settings/shields/filters` (disabled by default as of today)
+  - Uses the `vaft` scriptlet
+  - Disabled by default (as of today). Enable `Brave experimental Adblock Rules` in `brave://settings/shields/filters`
   - **Experimental: Use at your own risk. This is a standalone browser, not just a script added to your current browser.**
   - **Please read carefully online about this browser before committing to it.**
 
@@ -43,8 +44,7 @@ Proxies are usually the best and most reliable way to circumvent Twitch Ads. Eit
 
 `ublock` **and** `userscript` **scripts do auto update which could lead to having your data compromised if the main repository gets malware pushed to it.**
 
-**Brave may also push any updates directly to your browser without you noticing. There's no official way of disabling this behaviour, so use at your own risk.
-**
+**Brave may also push any updates directly to your browser without you noticing. There's no official way of disabling this behaviour, so use at your own risk.**
 
 ### [Applying a script (uBlock Origin)](https://github.com/pixeltris/TwitchAdSolutions#applying-a-script-ublock-origin)
 
