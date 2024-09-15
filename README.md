@@ -29,15 +29,22 @@ Proxies are usually the best and most reliable way to circumvent Twitch Ads. Eit
 
 ## Client-sided blocking methods
 
-- `video-swap-new` - [ublock](https://github.com/pixeltris/TwitchAdSolutions/raw/master/video-swap-new/video-swap-new-ublock-origin.js) / [userscript](https://github.com/pixeltris/TwitchAdSolutions/raw/master/video-swap-new/video-swap-new.user.js) / [ublock (permalink)](https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/044d1fb3bb88a19ab718603069354d43eeba7015/video-swap-new/video-swap-new-ublock-origin.js)
+- `video-swap-new` - [ublock](https://github.com/pixeltris/TwitchAdSolutions/raw/master/video-swap-new/video-swap-new-ublock-origin.js) / [userscript](https://github.com/pixeltris/TwitchAdSolutions/raw/master/video-swap-new/video-swap-new.user.js) / [ublock (permalink)](https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/0863c6d74b98b5e8349382f508412a9005f50c57/video-swap-new/video-swap-new-ublock-origin.js)
   - Uses the embed player during ads.
   - Quality is dropped to `360p` when ads are being played.
-- `vaft` - [ublock](https://github.com/pixeltris/TwitchAdSolutions/raw/master/vaft/vaft-ublock-origin.js) / [userscript](https://github.com/pixeltris/TwitchAdSolutions/raw/master/vaft/vaft.user.js) / [ublock (permalink)](https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/02447140c7522721601ac62c4fb47c7757e054d7/vaft/vaft-ublock-origin.js)
+- `vaft` - [ublock](https://github.com/pixeltris/TwitchAdSolutions/raw/master/vaft/vaft-ublock-origin.js) / [userscript](https://github.com/pixeltris/TwitchAdSolutions/raw/master/vaft/vaft.user.js) / [ublock (permalink)](https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/0863c6d74b98b5e8349382f508412a9005f50c57/vaft/vaft-ublock-origin.js)
   - The same as `video-swap-new` but attempts to get a clean stream faster (may suffer from more freezing / playback issues).
+- `Brave Browser` - [link](https://brave.com/)
+  - Uses the `vaft` scriptlet under `Brave experimental Adblock Rules` in `brave://settings/shields/filters` (disabled by default as of today)
+  - **Experimental: Use at your own risk. This is a standalone browser, not just a script added to your current browser.**
+  - **Please read carefully online about this browser before committing to it.**
 
 **For the sake of security it's recommended to use a permalink when using uBlock Origin (as permalinks do not auto update).**
 
 `ublock` **and** `userscript` **scripts do auto update which could lead to having your data compromised if the main repository gets malware pushed to it.**
+
+**Brave may also push any updates directly to your browser without you noticing. There's no official way of disabling this behaviour, so use at your own risk.
+**
 
 ### [Applying a script (uBlock Origin)](https://github.com/pixeltris/TwitchAdSolutions#applying-a-script-ublock-origin)
 
