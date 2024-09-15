@@ -76,7 +76,7 @@ Proxies are usually the best and most reliable way to circumvent Twitch Ads. Eit
   - Modified Twitch iOS app with added functionalities.
   - **You must be able to sideload ipas to your iOS device.**
   - By default, client-sided ad block mechanism is enabled. It may or may not work for you.
-  - You can select your own HTTP custom proxy. You're only proxying usher.ttvnw.net requests, and by default, `TTV LOL PRO` proxy is being used (if proxy option is manually enabled).
+  - You can select your own HTTP custom proxy. You're only proxying `usher.ttvnw.net` requests, and by default, `TTV LOL PRO` proxy is being used (if proxy option is manually enabled).
 
 # Developers
 
