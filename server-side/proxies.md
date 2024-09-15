@@ -17,7 +17,7 @@ Consider giving your support by covering some of their infrastructure costs via 
   - Twitch CDN assignment: `EU`
   - Recommended for Desktop & Mobile users.
 - `https://lb-eu3.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
-  - Proxied to Russia.
+  - Proxied to 🇷🇺 Russia.
   - Twitch CDN assignment: `EU`
   - Recommended for Mobile users.
 - `https://lb-eu4.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
@@ -29,7 +29,7 @@ Consider giving your support by covering some of their infrastructure costs via 
   - Twitch CDN assignment: `EU`
   - Recommended for Desktop & Mobile users.
 - `https://lb-na.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
-  - Proxied to Phoenix, AZ, US.
+  - Proxied to 🇺🇸 Phoenix, AZ, US.
   - Twitch CDN assignment: `NA`
   - Recommended for Desktop & Mobile users.
 - `https://lb-as.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
@@ -37,19 +37,19 @@ Consider giving your support by covering some of their infrastructure costs via 
   - Twitch CDN assignment: `AS (Singapore/Jakarta)`
   - Recommended for Desktop & Mobile users.
 - `https://lb-sa.cdn-perfprod.com` - [maintainer](https://github.com/zGato) / [current status](https://status.cdn-perfprod.com)
-  - Proxied to Chile.
+  - Proxied to 🇨🇱 Chile.
   - Twitch CDN assignment: `SA (Chile)`
   - Experimental.
 - `https://eu.luminous.dev` - [maintainer](https://github.com/AlyoshaVasilieva) / [current status](https://stats.uptimerobot.com/N2pVRCZAjg)
-  - Proxied to Kazakhstan.
+  - Proxied to 🇷🇺 Russia.
   - Twitch CDN assignment: `EU`
-  - Recommended for Desktop & Mobile users.
+  - Recommended for Mobile users.
 - `https://eu2.luminous.dev` - [maintainer](https://github.com/AlyoshaVasilieva) / [current status](https://stats.uptimerobot.com/N2pVRCZAjg)
-  - Proxied to North Macedonia.
+  - Proxied to 🇲🇰 North Macedonia.
   - Twitch CDN assignment: `EU`
   - Recommended for Mobile users.
 - `https://as.luminous.dev` - [maintainer](https://github.com/AlyoshaVasilieva) / [current status](https://stats.uptimerobot.com/N2pVRCZAjg)
-  - Proxied to China.
+  - Proxied to 🇨🇳 China.
   - Twitch CDN assignment: `EU/NA`
   - Recommended for Desktop & Mobile users.
 
