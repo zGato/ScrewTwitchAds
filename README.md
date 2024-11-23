@@ -29,10 +29,10 @@ Proxies are usually the best and most reliable way to circumvent Twitch Ads. Eit
 
 ## Client-sided blocking methods
 
-- `video-swap-new` - [ublock](https://github.com/pixeltris/TwitchAdSolutions/raw/master/video-swap-new/video-swap-new-ublock-origin.js) / [userscript](https://github.com/pixeltris/TwitchAdSolutions/raw/master/video-swap-new/video-swap-new.user.js) / [ublock (permalink)](https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/0863c6d74b98b5e8349382f508412a9005f50c57/video-swap-new/video-swap-new-ublock-origin.js)
+- `video-swap-new` - [ublock](https://github.com/pixeltris/TwitchAdSolutions/raw/master/video-swap-new/video-swap-new-ublock-origin.js) / [userscript](https://github.com/pixeltris/TwitchAdSolutions/raw/master/video-swap-new/video-swap-new.user.js) / [ublock (permalink)](https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/722f5b96241ef1d92998b87f941690e47e475379/video-swap-new/video-swap-new-ublock-origin.js)
   - Uses the embed player during ads.
   - Quality is dropped to `360p` when ads are being played.
-- `vaft` - [ublock](https://github.com/pixeltris/TwitchAdSolutions/raw/master/vaft/vaft-ublock-origin.js) / [userscript](https://github.com/pixeltris/TwitchAdSolutions/raw/master/vaft/vaft.user.js) / [ublock (permalink)](https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/0863c6d74b98b5e8349382f508412a9005f50c57/vaft/vaft-ublock-origin.js)
+- `vaft` - [ublock](https://github.com/pixeltris/TwitchAdSolutions/raw/master/vaft/vaft-ublock-origin.js) / [userscript](https://github.com/pixeltris/TwitchAdSolutions/raw/master/vaft/vaft.user.js) / [ublock (permalink)](https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/722f5b96241ef1d92998b87f941690e47e475379/vaft/vaft-ublock-origin.js)
   - The same as `video-swap-new` but attempts to get a clean stream faster (may suffer from more freezing / playback issues).
 - `Brave Browser` - [link](https://brave.com/)
   - Uses the `vaft` scriptlet
