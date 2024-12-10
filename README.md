@@ -29,10 +29,10 @@ Proxies are usually the best and most reliable way to circumvent Twitch Ads. Eit
 
 ## Client-sided blocking methods
 
-- `video-swap-new` - [ublock](https://github.com/pixeltris/TwitchAdSolutions/raw/master/video-swap-new/video-swap-new-ublock-origin.js) / [userscript](https://github.com/pixeltris/TwitchAdSolutions/raw/master/video-swap-new/video-swap-new.user.js) / [ublock (permalink)](https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/722f5b96241ef1d92998b87f941690e47e475379/video-swap-new/video-swap-new-ublock-origin.js)
+- `video-swap-new` - [ublock](https://github.com/pixeltris/TwitchAdSolutions/raw/master/video-swap-new/video-swap-new-ublock-origin.js) / [userscript](https://github.com/pixeltris/TwitchAdSolutions/raw/master/video-swap-new/video-swap-new.user.js) / [ublock (permalink)](https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/43a03975047dc1ecc2478f08c226c3c7f34d043f/video-swap-new/video-swap-new-ublock-origin.js)
   - Uses the embed player during ads.
   - Quality is dropped to `360p` when ads are being played.
-- `vaft` - [ublock](https://github.com/pixeltris/TwitchAdSolutions/raw/master/vaft/vaft-ublock-origin.js) / [userscript](https://github.com/pixeltris/TwitchAdSolutions/raw/master/vaft/vaft.user.js) / [ublock (permalink)](https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/722f5b96241ef1d92998b87f941690e47e475379/vaft/vaft-ublock-origin.js)
+- `vaft` - [ublock](https://github.com/pixeltris/TwitchAdSolutions/raw/master/vaft/vaft-ublock-origin.js) / [userscript](https://github.com/pixeltris/TwitchAdSolutions/raw/master/vaft/vaft.user.js) / [ublock (permalink)](https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/43a03975047dc1ecc2478f08c226c3c7f34d043f/vaft/vaft-ublock-origin.js)
   - The same as `video-swap-new` but attempts to get a clean stream faster (may suffer from more freezing / playback issues).
 - `Brave Browser` - [link](https://brave.com/)
   - Uses the `vaft` scriptlet
@@ -50,7 +50,7 @@ Proxies are usually the best and most reliable way to circumvent Twitch Ads. Eit
 
 - Navigate to the uBlock Origin Dashboard (the extension options)
 - Under the `My filters` tab add `twitch.tv##+js(twitch-videoad)`.
-- Under the `Settings` tab, enable `I am an advanced user`, then click the cog that appears. Modify the value of `userResourcesLocation` from `unset` to the full url of the solution you wish to use (if a url is already in use, add a space after the existing url). e.g. `userResourcesLocation https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/722f5b96241ef1d92998b87f941690e47e475379/video-swap-new/video-swap-new-ublock-origin.js`
+- Under the `Settings` tab, enable `I am an advanced user`, then click the cog that appears. Modify the value of `userResourcesLocation` from `unset` to the full url of the solution you wish to use (if a url is already in use, add a space after the existing url). e.g. `userResourcesLocation https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/43a03975047dc1ecc2478f08c226c3c7f34d043f/video-swap-new/video-swap-new-ublock-origin.js`
 - To ensure uBlock Origin loads the script I recommend that you disable/enable the uBlock Origin extension (or restart your browser).
 
 If you would like to remove the script, remove the twitch-videload filter and replace the script url to `unset`
