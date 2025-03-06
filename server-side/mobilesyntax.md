@@ -1,6 +1,6 @@
 # Mobile syntax
 
-To use any of the proxies listed [here](proxies.md#proxies-list) you need to use a specific syntax depending on your modded app. You can use the following as reference:
+To use any of the proxies listed [here](https://wiki.cdn-perfprod.com/v1/must-read/proxies#public-proxy-list) you need to use a specific syntax depending on your modded app. You can use the following as reference:
 
 To use all the proxies with Twitch modded apps you need to specify in the address field the following: 
 - `https://proxyaddress/live/$channel?allow_source=true&allow_audio_only=true&fast_bread=true` (Tested with Xtra app)
