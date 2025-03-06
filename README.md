@@ -38,7 +38,7 @@ Proxies are usually the best and most reliable way to circumvent Twitch Ads. Eit
 
 **For the sake of security it's recommended to use a permalink when using uBlock Origin (as permalinks do not auto update).**
 
-`ublock` **and** `userscript` **scripts do auto update which could lead to having your data compromised if the main repository gets malware pushed to it.**
+`ublock` **and** `userscript` **scripts do auto update which could lead to having your data compromised if the main repository gets compromised.**
 
 ### [Applying a script (uBlock Origin)](https://github.com/pixeltris/TwitchAdSolutions#applying-a-script-ublock-origin)
 
